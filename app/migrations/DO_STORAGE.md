@@ -23,3 +23,9 @@ Added `heard` column to track which messages have been played via TTS.
 ```sql
 ALTER TABLE messages ADD COLUMN heard INTEGER NOT NULL DEFAULT 0
 ```
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)
