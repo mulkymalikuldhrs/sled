@@ -149,21 +149,3 @@ Audio and agent responses are sent through [Layercode](https://layercode.com) fo
 ## License
 
 [MIT License](LICENSE) © Layercode
-
----
-
-## 📬 Contact
-
-**Mulky Malikul Dhaher** — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
-
-GitHub: [https://github.com/mulkymalikuldhrs](https://github.com/mulkymalikuldhrs)
-
----
-
-## ⚠️ Disclaimer
-
-**This project is for Education Purpose only.**
-
-All content, code, and documentation provided in this repository are intended solely for educational and research purposes. Nothing in this repository constitutes financial, investment, legal, or professional advice.
-
-Use at your own risk. The authors and contributors assume no liability for any losses, damages, or consequences arising from the use of this software or information provided herein.
